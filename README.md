@@ -1,4 +1,3 @@
-## Hi there 👋
 ![header](https://capsule-render.vercel.app/api?type=blur&color=4C516D&text=Shin%20SeungWoo&animation=fadeIn&fontColor=545AA7&height=400)
 
 ## Skills
