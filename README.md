@@ -11,7 +11,7 @@
 
 <br/>
 
-##### Additional Skills (Side)
+### Additional Skills (Side)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![MongoDB](https://img.shields.io/badge/Mongo%20DB-%234ea94b?style=for-the-badge&logo=mongodb&logoColor=white) ![xampp](https://img.shields.io/badge/xampp-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 <!--
 **ssw0420/ssw0420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
